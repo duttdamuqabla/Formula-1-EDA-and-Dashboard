@@ -37,13 +37,4 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on Formula 1 (F
 - **Lewis Hamilton**, **Sebastian Vettel**, and **Michael Schumacher** rank among the most successful drivers by wins  
 - **Mercedes** and **Ferrari** lead in constructor performance  
 - Certain circuits (like **Monza** and **Silverstone**) host the most F1 races  
-- SQL accelerated data filtering and made complex joins more transparent
-
-## ✅ Sample SQL Use Cases
-```sql
-SELECT driverId, COUNT(*) as wins 
-FROM results 
-WHERE positionOrder = 1 
-GROUP BY driverId 
-ORDER BY wins DESC;
-```
+  
