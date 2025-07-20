@@ -1,5 +1,5 @@
 
-# 🏁 F1 Exploratory Data Analysis
+# F1 Exploratory Data Analysis
 
 ## 📌 Project Objective  
 This project aims to perform **Exploratory Data Analysis (EDA)** on Formula 1 (F1) racing data to uncover patterns, trends, and performance insights related to drivers, teams, circuits, and race outcomes. It also demonstrates how to integrate **SQL queries within a Jupyter environment** to enhance data handling and querying efficiency.
